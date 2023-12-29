@@ -1,0 +1,7 @@
+notion-client
+pypdf
+python-dateutil
+python-dotenv
+requests
+wheel 
+twine
